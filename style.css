@@ -24,7 +24,8 @@ body{
 }
 
 input{
-    width: 100%;
+    width: 320px;
+    cursor: pointer;
     border: none;
     padding: 25px;
     margin: 10px;
@@ -33,3 +34,21 @@ input{
     text-align: right;
     font-size: 40px;
 }
+
+
+input::placeholder{
+    color: #ffffff;
+}
+
+button{
+    border: none;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 50%;
+    color: white;
+    background: transparent;
+    font-size: 20px;
+    box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.1)
+}
+
