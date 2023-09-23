@@ -1,2 +1,4 @@
 # JS_Calculator
-Simple Calculator bult up with JS
+Simple Calculator built up with JS currently worked with ON-Screen INPUTS
+
+-- Built by Shubham Chauhan
