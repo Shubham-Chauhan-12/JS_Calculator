@@ -9,6 +9,7 @@ body{
         justify-content: center;
         align-items: center;
         background: linear-gradient(45deg , #0a0a0a ,#3a4452);
+        text-align: center;
     
    
 }
@@ -52,3 +53,11 @@ button{
     box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.1)
 }
 
+
+#equalBtn{
+    background-color: rgb(255, 89, 0);
+}
+
+.operators{
+    color: rgb(51, 255, 0);
+}
